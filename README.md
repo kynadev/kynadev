@@ -9,7 +9,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-FF7A22?style=for-the-badge&logo=java)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-Javascript-grey?style=for-the-badge&logo=javascript)
 ![TypeScript Badge](https://img.shields.io/badge/-Typescript-grey?style=for-the-badge&logo=typescript)
 ![Shell Scripting Badge](https://img.shields.io/badge/-Sh%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -20,7 +20,7 @@
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs)
 ![Flutter and Dart Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Unity Badge](https://img.shields.io/badge/-Unity-221122?style=for-the-badge&logo=unity)
-![Godot Badge](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Godot Badge](https://img.shields.io/badge/learning-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![GNU/Linux Badge](https://img.shields.io/badge/-GNU%2FLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -32,7 +32,7 @@
 ![VS Codium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Intellij IDEA Badge](https://img.shields.io/badge/-Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Insomnia Badge](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![LBRY Badge](https://img.shields.io/badge/-LBRY%20Network-2F9176?style=for-the-badge&logo=lbry&logoColor=white)
+![LBRY Badge](https://img.shields.io/badge/learning-LBRY%20Network-2F9176?style=for-the-badge&logo=lbry&logoColor=white)
 ![Odysee Badge](https://img.shields.io/badge/-Odysee-EF1970?style=for-the-badge&logo=odysee&logoColor=white)
 ![Element Matrix Client Badge](https://img.shields.io/badge/-Element%2FMAtrix-0DBD8B?style=for-the-badge&logo=element&logoColor=white)
 
