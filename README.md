@@ -19,8 +19,8 @@
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=react)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=nodedotjs)
 ![Flutter and Dart Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
-![Unity Badge](https://img.shields.io/badge/-Unity-221122?style=for-the-badge&logo=unity)
-![Godot Badge](https://img.shields.io/badge/learning-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+<!-- ![Unity Badge](https://img.shields.io/badge/-Unity-221122?style=for-the-badge&logo=unity) -->
+<!-- ![Godot Badge](https://img.shields.io/badge/learning-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) -->
 ![GNU/Linux Badge](https://img.shields.io/badge/-GNU%2FLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
