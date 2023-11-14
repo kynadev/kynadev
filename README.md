@@ -32,8 +32,6 @@
 ![VS Codium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Intellij IDEA Badge](https://img.shields.io/badge/-Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Insomnia Badge](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![LBRY Badge](https://img.shields.io/badge/learning-LBRY%20Network-2F9176?style=for-the-badge&logo=lbry&logoColor=white)
-![Odysee Badge](https://img.shields.io/badge/-Odysee-EF1970?style=for-the-badge&logo=odysee&logoColor=white)
 ![Element Matrix Client Badge](https://img.shields.io/badge/-Element%2FMAtrix-0DBD8B?style=for-the-badge&logo=element&logoColor=white)
 
 <!--
